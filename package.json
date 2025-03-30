@@ -1,6 +1,7 @@
 {
   "name": "vismag",
   "version": "0.1.0",
+  "homepage": "https://github.com/ardetax/mag",
   "private": true,
   "dependencies": {
     "@fancyapps/ui": "^5.0.36",
