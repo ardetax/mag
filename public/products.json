@@ -1,0 +1,1198 @@
+[
+  {
+    "id": 0,
+    "name": {
+      "ru": "Классическая толстовка с капюшоном цвета «меланж»",
+      "ro": "Hanorac clasic melange"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 69,
+    "image": "img/0.jpeg"
+  },
+  {
+    "id": 1,
+    "name": {
+      "ru": "Футболка с рисунком «Величественные горы»",
+      "ro": "Tricou cu designul „Majestic Mountains”"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 44,
+    "image": "img/1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": {
+      "ru": "Классический красный свитер с капюшоном",
+      "ro": "Pulover clasic roșu cu glugă"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 10,
+    "image": "img/2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": {
+      "ru": "Классическая серая толстовка с капюшоном",
+      "ro": "Hanorac clasic gri"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 90,
+    "image": "img/3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": {
+      "ru": "Классическая черная толстовка с капюшоном",
+      "ro": "Hanorac negru clasic"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 79,
+    "image": "img/4.jpeg"
+  },
+  {
+    "id": 5,
+    "name": {
+      "ru": "Классические удобные джоггеры",
+      "ro": "Joggeri clasici confortabili"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 25,
+    "image": "img/5.jpeg"
+  },
+  {
+    "id": 6,
+    "name": {
+      "ru": "Классические удобные джоггеры с завязками",
+      "ro": "Joggeri clasici, confortabili, cu cordon"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 79,
+    "image": "img/6.jpeg"
+  },
+  {
+    "id": 7,
+    "name": {
+      "ru": "Классические красные спортивные штаны Jogger",
+      "ro": "Pantaloni de sport Jogger roșii clasici"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 98,
+    "image": "img/7.jpeg"
+  },
+  {
+    "id": 8,
+    "name": {
+      "ru": "Классическая бейсболка темно-синего цвета",
+      "ro": "Şapcă clasică de baseball bleumarin"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 61,
+    "image": "img/8.jpeg"
+  },
+  {
+    "id": 9,
+    "name": {
+      "ru": "Классическая синяя бейсболка",
+      "ro": "Şapcă de baseball albastră clasică"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 86,
+    "image": "img/9.jpeg"
+  },
+  {
+    "id": 10,
+    "name": {
+      "ru": "Классическая красная бейсболка",
+      "ro": "Şapcă de baseball roşie clasică"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 35,
+    "image": "img/10.jpeg"
+  },
+  {
+    "id": 11,
+    "name": {
+      "ru": "Классическая черная бейсболка",
+      "ro": "Şapcă de baseball neagră clasică"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 58,
+    "image": "img/11.jpeg"
+  },
+  {
+    "id": 12,
+    "name": {
+      "ru": "Элегантный беспроводной игровой контроллер белого и оранжевого цветов",
+      "ro": "Controler de jocuri fără fir alb și portocaliu elegant"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 69,
+    "image": "img/12.jpeg"
+  },
+  {
+    "id": 13,
+    "name": {
+      "ru": "Элегантные беспроводные наушники и набор вкладышей Inked",
+      "ro": "Set căști fără fir elegant și căști cu cerneală"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 44,
+    "image": "img/13.jpeg"
+  },
+  {
+    "id": 14,
+    "name": {
+      "ru": "Элегантные, удобные, накладные наушники",
+      "ro": "Căști supraauriculare elegante și confortabile"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 28,
+    "image": "img/14.jpeg"
+  },
+  {
+    "id": 15,
+    "name": {
+      "ru": "Эффективный тостер на 2 ломтика",
+      "ro": "Toster de pâine eficient în 2 felii"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 48,
+    "image": "img/15.jpeg"
+  },
+  {
+    "id": 16,
+    "name": {
+      "ru": "Элегантная беспроводная компьютерная мышь",
+      "ro": "Mouse de computer fără fir elegant"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 10,
+    "image": "img/16.jpeg"
+  },
+  {
+    "id": 17,
+    "name": {
+      "ru": "Элегантный современный ноутбук с подсветкой",
+      "ro": "Laptop modern elegant, cu iluminare ambientală"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 43,
+    "image": "img/17.jpeg"
+  },
+  {
+    "id": 18,
+    "name": {
+      "ru": "Элегантный современный ноутбук для профессионалов",
+      "ro": "Laptop modern și elegant pentru profesioniști"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 97,
+    "image": "img/18.jpeg"
+  },
+  {
+    "id": 19,
+    "name": {
+      "ru": "Стильные красные и серебристые полноразмерные наушники",
+      "ro": "Căști supraear elegante roșii și argintii"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 39,
+    "image": "img/19.jpeg"
+  },
+  {
+    "id": 20,
+    "name": {
+      "ru": "Гладкий зеркальный чехол для телефона",
+      "ro": "Husă elegantă pentru telefon cu finisaj în oglindă"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 27,
+    "image": "img/20.jpeg"
+  },
+  {
+    "id": 21,
+    "name": {
+      "ru": "Элегантные смарт-часы с ярким дисплеем",
+      "ro": "Ceas inteligent elegant cu afișaj vibrant"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 16,
+    "image": "img/21.jpeg"
+  },
+  {
+    "id": 22,
+    "name": {
+      "ru": "Элегантные, удобные, накладные наушники",
+      "ro": "Căști supraauriculare elegante și confortabile"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 28,
+    "image": "img/22.jpeg"
+  },
+  {
+    "id": 23,
+    "name": {
+      "ru": "Классическая толстовка с капюшоном цвета «меланж»",
+      "ro": "Hanorac clasic melange"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 69,
+    "image": "img/0.jpeg"
+  },
+  {
+    "id": 24,
+    "name": {
+      "ru": "Футболка с рисунком «Величественные горы»",
+      "ro": "Tricou cu designul „Majestic Mountains”"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 44,
+    "image": "img/1.jpeg"
+  },
+  {
+    "id": 25,
+    "name": {
+      "ru": "Классический красный свитер с капюшоном",
+      "ro": "Pulover clasic roșu cu glugă"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 10,
+    "image": "img/2.jpeg"
+  },
+  {
+    "id": 26,
+    "name": {
+      "ru": "Классическая серая толстовка с капюшоном",
+      "ro": "Hanorac clasic gri"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 90,
+    "image": "img/3.jpeg"
+  },
+  {
+    "id": 27,
+    "name": {
+      "ru": "Классическая черная толстовка с капюшоном",
+      "ro": "Hanorac negru clasic"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 79,
+    "image": "img/4.jpeg"
+  },
+  {
+    "id": 28,
+    "name": {
+      "ru": "Классические удобные джоггеры",
+      "ro": "Joggeri clasici confortabili"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 25,
+    "image": "img/5.jpeg"
+  },
+  {
+    "id": 29,
+    "name": {
+      "ru": "Классические удобные джоггеры с завязками",
+      "ro": "Joggeri clasici, confortabili, cu cordon"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 79,
+    "image": "img/6.jpeg"
+  },
+  {
+    "id": 30,
+    "name": {
+      "ru": "Классические красные спортивные штаны Jogger",
+      "ro": "Pantaloni de sport Jogger roșii clasici"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 98,
+    "image": "img/7.jpeg"
+  },
+  {
+    "id": 31,
+    "name": {
+      "ru": "Классическая бейсболка темно-синего цвета",
+      "ro": "Şapcă clasică de baseball bleumarin"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 61,
+    "image": "img/8.jpeg"
+  },
+  {
+    "id": 32,
+    "name": {
+      "ru": "Классическая синяя бейсболка",
+      "ro": "Şapcă de baseball albastră clasică"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 86,
+    "image": "img/9.jpeg"
+  },
+  {
+    "id": 33,
+    "name": {
+      "ru": "Классическая красная бейсболка",
+      "ro": "Şapcă de baseball roşie clasică"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 35,
+    "image": "img/10.jpeg"
+  },
+  {
+    "id": 34,
+    "name": {
+      "ru": "Классическая черная бейсболка",
+      "ro": "Şapcă de baseball neagră clasică"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 58,
+    "image": "img/11.jpeg"
+  },
+  {
+    "id": 35,
+    "name": {
+      "ru": "Элегантный беспроводной игровой контроллер белого и оранжевого цветов",
+      "ro": "Controler de jocuri fără fir alb și portocaliu elegant"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 69,
+    "image": "img/12.jpeg"
+  },
+  {
+    "id": 36,
+    "name": {
+      "ru": "Элегантные беспроводные наушники и набор вкладышей Inked",
+      "ro": "Set căști fără fir elegant și căști cu cerneală"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 44,
+    "image": "img/13.jpeg"
+  },
+  {
+    "id": 37,
+    "name": {
+      "ru": "Элегантные, удобные, накладные наушники",
+      "ro": "Căști supraauriculare elegante și confortabile"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 28,
+    "image": "img/14.jpeg"
+  },
+  {
+    "id": 38,
+    "name": {
+      "ru": "Эффективный тостер на 2 ломтика",
+      "ro": "Toster de pâine eficient în 2 felii"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 48,
+    "image": "img/15.jpeg"
+  },
+  {
+    "id": 39,
+    "name": {
+      "ru": "Элегантная беспроводная компьютерная мышь",
+      "ro": "Mouse de computer fără fir elegant"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 10,
+    "image": "img/16.jpeg"
+  },
+  {
+    "id": 40,
+    "name": {
+      "ru": "Элегантный современный ноутбук с подсветкой",
+      "ro": "Laptop modern elegant, cu iluminare ambientală"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 43,
+    "image": "img/17.jpeg"
+  },
+  {
+    "id": 41,
+    "name": {
+      "ru": "Элегантный современный ноутбук для профессионалов",
+      "ro": "Laptop modern și elegant pentru profesioniști"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 97,
+    "image": "img/18.jpeg"
+  },
+  {
+    "id": 42,
+    "name": {
+      "ru": "Стильные красные и серебристые полноразмерные наушники",
+      "ro": "Căști supraear elegante roșii și argintii"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 39,
+    "image": "img/19.jpeg"
+  },
+  {
+    "id": 43,
+    "name": {
+      "ru": "Гладкий зеркальный чехол для телефона",
+      "ro": "Husă elegantă pentru telefon cu finisaj în oglindă"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 27,
+    "image": "img/20.jpeg"
+  },
+  {
+    "id": 44,
+    "name": {
+      "ru": "Элегантные смарт-часы с ярким дисплеем",
+      "ro": "Ceas inteligent elegant cu afișaj vibrant"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 16,
+    "image": "img/21.jpeg"
+  },
+  {
+    "id": 45,
+    "name": {
+      "ru": "Элегантные, удобные, накладные наушники",
+      "ro": "Căști supraauriculare elegante și confortabile"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 28,
+    "image": "img/22.jpeg"
+  },
+  {
+    "id": 46,
+    "name": {
+      "ru": "Классическая толстовка с капюшоном цвета «меланж»",
+      "ro": "Hanorac clasic melange"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 69,
+    "image": "img/0.jpeg"
+  },
+  {
+    "id": 47,
+    "name": {
+      "ru": "Футболка с рисунком «Величественные горы»",
+      "ro": "Tricou cu designul „Majestic Mountains”"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 44,
+    "image": "img/1.jpeg"
+  },
+  {
+    "id": 48,
+    "name": {
+      "ru": "Классический красный свитер с капюшоном",
+      "ro": "Pulover clasic roșu cu glugă"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 10,
+    "image": "img/2.jpeg"
+  },
+  {
+    "id": 49,
+    "name": {
+      "ru": "Классическая серая толстовка с капюшоном",
+      "ro": "Hanorac clasic gri"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 90,
+    "image": "img/3.jpeg"
+  },
+  {
+    "id": 50,
+    "name": {
+      "ru": "Классическая черная толстовка с капюшоном",
+      "ro": "Hanorac negru clasic"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 79,
+    "image": "img/4.jpeg"
+  },
+  {
+    "id": 51,
+    "name": {
+      "ru": "Классические удобные джоггеры",
+      "ro": "Joggeri clasici confortabili"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 25,
+    "image": "img/5.jpeg"
+  },
+  {
+    "id": 52,
+    "name": {
+      "ru": "Классические удобные джоггеры с завязками",
+      "ro": "Joggeri clasici, confortabili, cu cordon"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 79,
+    "image": "img/6.jpeg"
+  },
+  {
+    "id": 53,
+    "name": {
+      "ru": "Классические красные спортивные штаны Jogger",
+      "ro": "Pantaloni de sport Jogger roșii clasici"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 98,
+    "image": "img/7.jpeg"
+  },
+  {
+    "id": 54,
+    "name": {
+      "ru": "Классическая бейсболка темно-синего цвета",
+      "ro": "Şapcă clasică de baseball bleumarin"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 61,
+    "image": "img/8.jpeg"
+  },
+  {
+    "id": 55,
+    "name": {
+      "ru": "Классическая синяя бейсболка",
+      "ro": "Şapcă de baseball albastră clasică"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 86,
+    "image": "img/9.jpeg"
+  },
+  {
+    "id": 56,
+    "name": {
+      "ru": "Классическая красная бейсболка",
+      "ro": "Şapcă de baseball roşie clasică"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 35,
+    "image": "img/10.jpeg"
+  },
+  {
+    "id": 57,
+    "name": {
+      "ru": "Классическая черная бейсболка",
+      "ro": "Şapcă de baseball neagră clasică"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 58,
+    "image": "img/11.jpeg"
+  },
+  {
+    "id": 58,
+    "name": {
+      "ru": "Элегантный беспроводной игровой контроллер белого и оранжевого цветов",
+      "ro": "Controler de jocuri fără fir alb și portocaliu elegant"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 69,
+    "image": "img/12.jpeg"
+  },
+  {
+    "id": 59,
+    "name": {
+      "ru": "Элегантные беспроводные наушники и набор вкладышей Inked",
+      "ro": "Set căști fără fir elegant și căști cu cerneală"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 44,
+    "image": "img/13.jpeg"
+  },
+  {
+    "id": 60,
+    "name": {
+      "ru": "Элегантные, удобные, накладные наушники",
+      "ro": "Căști supraauriculare elegante și confortabile"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 28,
+    "image": "img/14.jpeg"
+  },
+  {
+    "id": 61,
+    "name": {
+      "ru": "Эффективный тостер на 2 ломтика",
+      "ro": "Toster de pâine eficient în 2 felii"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 48,
+    "image": "img/15.jpeg"
+  },
+  {
+    "id": 62,
+    "name": {
+      "ru": "Элегантная беспроводная компьютерная мышь",
+      "ro": "Mouse de computer fără fir elegant"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 10,
+    "image": "img/16.jpeg"
+  },
+  {
+    "id": 63,
+    "name": {
+      "ru": "Элегантный современный ноутбук с подсветкой",
+      "ro": "Laptop modern elegant, cu iluminare ambientală"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 43,
+    "image": "img/17.jpeg"
+  },
+  {
+    "id": 64,
+    "name": {
+      "ru": "Элегантный современный ноутбук для профессионалов",
+      "ro": "Laptop modern și elegant pentru profesioniști"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 97,
+    "image": "img/18.jpeg"
+  },
+  {
+    "id": 65,
+    "name": {
+      "ru": "Стильные красные и серебристые полноразмерные наушники",
+      "ro": "Căști supraear elegante roșii și argintii"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 39,
+    "image": "img/19.jpeg"
+  },
+  {
+    "id": 66,
+    "name": {
+      "ru": "Гладкий зеркальный чехол для телефона",
+      "ro": "Husă elegantă pentru telefon cu finisaj în oglindă"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 27,
+    "image": "img/20.jpeg"
+  },
+  {
+    "id": 67,
+    "name": {
+      "ru": "Элегантные смарт-часы с ярким дисплеем",
+      "ro": "Ceas inteligent elegant cu afișaj vibrant"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 16,
+    "image": "img/21.jpeg"
+  },
+  {
+    "id": 68,
+    "name": {
+      "ru": "Элегантные, удобные, накладные наушники",
+      "ro": "Căști supraauriculare elegante și confortabile"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 28,
+    "image": "img/22.jpeg"
+  },
+  {
+    "id": 69,
+    "name": {
+      "ru": "Классическая толстовка с капюшоном цвета «меланж»",
+      "ro": "Hanorac clasic melange"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 69,
+    "image": "img/0.jpeg"
+  },
+  {
+    "id": 70,
+    "name": {
+      "ru": "Футболка с рисунком «Величественные горы»",
+      "ro": "Tricou cu designul „Majestic Mountains”"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 44,
+    "image": "img/1.jpeg"
+  },
+  {
+    "id": 71,
+    "name": {
+      "ru": "Классический красный свитер с капюшоном",
+      "ro": "Pulover clasic roșu cu glugă"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 10,
+    "image": "img/2.jpeg"
+  },
+  {
+    "id": 72,
+    "name": {
+      "ru": "Классическая серая толстовка с капюшоном",
+      "ro": "Hanorac clasic gri"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 90,
+    "image": "img/3.jpeg"
+  },
+  {
+    "id": 73,
+    "name": {
+      "ru": "Классическая черная толстовка с капюшоном",
+      "ro": "Hanorac negru clasic"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 79,
+    "image": "img/4.jpeg"
+  },
+  {
+    "id": 74,
+    "name": {
+      "ru": "Классические удобные джоггеры",
+      "ro": "Joggeri clasici confortabili"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 25,
+    "image": "img/5.jpeg"
+  },
+  {
+    "id": 75,
+    "name": {
+      "ru": "Классические удобные джоггеры с завязками",
+      "ro": "Joggeri clasici, confortabili, cu cordon"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 79,
+    "image": "img/6.jpeg"
+  },
+  {
+    "id": 76,
+    "name": {
+      "ru": "Классические красные спортивные штаны Jogger",
+      "ro": "Pantaloni de sport Jogger roșii clasici"
+    },
+    "category": {
+      "ru": "Одежда",
+      "ro": "Haine"
+    },
+    "price": 98,
+    "image": "img/7.jpeg"
+  },
+  {
+    "id": 77,
+    "name": {
+      "ru": "Классическая бейсболка темно-синего цвета",
+      "ro": "Şapcă clasică de baseball bleumarin"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 61,
+    "image": "img/8.jpeg"
+  },
+  {
+    "id": 78,
+    "name": {
+      "ru": "Классическая синяя бейсболка",
+      "ro": "Şapcă de baseball albastră clasică"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 86,
+    "image": "img/9.jpeg"
+  },
+  {
+    "id": 79,
+    "name": {
+      "ru": "Классическая красная бейсболка",
+      "ro": "Şapcă de baseball roşie clasică"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 35,
+    "image": "img/10.jpeg"
+  },
+  {
+    "id": 80,
+    "name": {
+      "ru": "Классическая черная бейсболка",
+      "ro": "Şapcă de baseball neagră clasică"
+    },
+    "category": {
+      "ru": "Бейсболки",
+      "ro": "Şapci de baseball"
+    },
+    "price": 58,
+    "image": "img/11.jpeg"
+  },
+  {
+    "id": 81,
+    "name": {
+      "ru": "Элегантный беспроводной игровой контроллер белого и оранжевого цветов",
+      "ro": "Controler de jocuri fără fir alb și portocaliu elegant"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 69,
+    "image": "img/12.jpeg"
+  },
+  {
+    "id": 82,
+    "name": {
+      "ru": "Элегантные беспроводные наушники и набор вкладышей Inked",
+      "ro": "Set căști fără fir elegant și căști cu cerneală"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 44,
+    "image": "img/13.jpeg"
+  },
+  {
+    "id": 83,
+    "name": {
+      "ru": "Элегантные, удобные, накладные наушники",
+      "ro": "Căști supraauriculare elegante și confortabile"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 28,
+    "image": "img/14.jpeg"
+  },
+  {
+    "id": 84,
+    "name": {
+      "ru": "Эффективный тостер на 2 ломтика",
+      "ro": "Toster de pâine eficient în 2 felii"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 48,
+    "image": "img/15.jpeg"
+  },
+  {
+    "id": 85,
+    "name": {
+      "ru": "Элегантная беспроводная компьютерная мышь",
+      "ro": "Mouse de computer fără fir elegant"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 10,
+    "image": "img/16.jpeg"
+  },
+  {
+    "id": 86,
+    "name": {
+      "ru": "Элегантный современный ноутбук с подсветкой",
+      "ro": "Laptop modern elegant, cu iluminare ambientală"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 43,
+    "image": "img/17.jpeg"
+  },
+  {
+    "id": 87,
+    "name": {
+      "ru": "Элегантный современный ноутбук для профессионалов",
+      "ro": "Laptop modern și elegant pentru profesioniști"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 97,
+    "image": "img/18.jpeg"
+  },
+  {
+    "id": 88,
+    "name": {
+      "ru": "Стильные красные и серебристые полноразмерные наушники",
+      "ro": "Căști supraear elegante roșii și argintii"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 39,
+    "image": "img/19.jpeg"
+  },
+  {
+    "id": 89,
+    "name": {
+      "ru": "Гладкий зеркальный чехол для телефона",
+      "ro": "Husă elegantă pentru telefon cu finisaj în oglindă"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 27,
+    "image": "img/20.jpeg"
+  },
+  {
+    "id": 90,
+    "name": {
+      "ru": "Элегантные смарт-часы с ярким дисплеем",
+      "ro": "Ceas inteligent elegant cu afișaj vibrant"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 16,
+    "image": "img/21.jpeg"
+  },
+  {
+    "id": 91,
+    "name": {
+      "ru": "Элегантные, удобные, накладные наушники",
+      "ro": "Căști supraauriculare elegante și confortabile"
+    },
+    "category": {
+      "ru": "Электроника",
+      "ro": "Electronice"
+    },
+    "price": 28,
+    "image": "img/22.jpeg"
+  }
+]
