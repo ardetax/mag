@@ -1,0 +1,61 @@
+{
+  "name": "vismag",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fancyapps/ui": "^5.0.36",
+    "@lingui/core": "^5.2.0",
+    "@lingui/react": "^5.2.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.2.0",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.13.1",
+    "loader-utils": "3.3.1",
+    "make-plural": "^7.4.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-intl": "^7.1.5",
+    "react-router-dom": "^7.1.5",
+    "react-scripts": "5.0.1",
+    "typescript": "^5.7.3",
+    "web-vitals": "^4.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.8",
+    "@babel/preset-env": "^7.26.8",
+    "@babel/preset-react": "^7.26.3",
+    "@babel/preset-typescript": "^7.26.0",
+    "@lingui/cli": "^5.2.0",
+    "@lingui/macro": "^5.2.0",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "@types/react-intl": "^2.3.18",
+    "ajv": "^8.17.1",
+    "babel-loader": "^9.2.1"
+  }
+}
